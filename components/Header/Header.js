@@ -17,7 +17,7 @@ export default function Header(){
   const router = useRouter()
 
   const onClickHeaderLogo = () => {
-    router.push("/HomePage")
+    router.push("/")
   }
 
 
